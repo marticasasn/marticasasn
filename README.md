@@ -35,4 +35,4 @@ Based in Barcelona · I speak Catalan, Spanish and English.
 
 ## Get in touch
 
-[LinkedIn]((https://www.linkedin.com/in/marticasasniubo/)) · [Email](mailto:marticasasn@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/marticasasniubo/) · [Email](mailto:marticasasn@gmail.com)
