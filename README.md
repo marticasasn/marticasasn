@@ -17,8 +17,8 @@ Based in Barcelona · I speak Catalan, Spanish and English.
 
 - [**Beyond Flatness**](https://github.com/marticasasn/sam-ood-hessian-geometry): code and results for our paper on SAM's loss landscape geometry and OOD generalization (ResNet-18, CIFAR-10-C, Hessian analysis). [Paper on OpenReview](https://openreview.net/forum?id=EBnr0nVRJd).
 - [**ToS/Privacy Evidence-First**](https://github.com/marticasasn/tos-privacy-evidence-first): Chrome extension that summarizes a site's terms of service and privacy policy with a source link for every point.
-- [**Secret Santa**](https://github.com/marticasasn/amicinvisiblev2): a Secret Santa draw in a single HTML file, no backend, one personal link per participant. [Live demo](https://amicinvisiblev2.netlify.app/).
 - [**Job change prediction**](https://github.com/marticasasn/job-change-prediction-ml): predicting job change among data science trainees with scikit-learn, from tuned classifiers to robustness analysis and ensembles.
+- [**Music genre classification**](https://github.com/marticasasn/music-genre-classification): 12 genres with a CNN on mel-spectrograms, a BiLSTM on MFCCs and an SVM baseline (PyTorch, librosa). Group project at the University of Sydney.
 
 ## Tech stack
 
