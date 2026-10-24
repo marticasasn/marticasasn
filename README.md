@@ -7,7 +7,7 @@ Based in Barcelona · I speak Catalan, Spanish and English.
 
 ## What I'm working on
 
-- **BVIP**: CTO of an early-stage startup. I design and build the platform end to end.
+- **BVIP**: Technical Lead at an early-stage startup. I design and build the platform end to end.
 - **Final degree project (TFG)**: in my 4th year at UPF, working on mechanistic interpretability of LLMs, studying the latent knowledge inside language models.
 - **Kiwi**: a Telegram assistant bot I run on my own server. It's my playground to learn, and I keep improving it every day.
 - **Freelance**: custom software and apps tailored to each business, from web platforms to data pipelines and automation.
